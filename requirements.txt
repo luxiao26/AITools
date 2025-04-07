@@ -52,7 +52,7 @@ orjson
 packaging
 pandas
 Pillow
-protobuf
+protobuf==3.20.3 
 pyarrow
 pydantic
 pydantic_core
